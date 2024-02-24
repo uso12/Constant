@@ -1,0 +1,646 @@
+Started
+length_ele = 21 length_ele_extended = 147
+push = 50000000 buffer_current = 4.927075e-276
+push = 100000000 buffer_current = 5.087068e-081
+push = 150000000 buffer_current = 1.867400e-172
+push = 200000000 buffer_current = 8.307972e-105
+push = 250000000 buffer_current = 2.674733e-118
+push = 300000000 buffer_current = 6.345411e+010
+push = 350000000 buffer_current = 1.117074e-174
+push = 400000000 buffer_current = 1.432428e-171
+push = 450000000 buffer_current = 1.703882e-120
+push = 500000000 buffer_current = 3.932121e-118
+push = 550000000 buffer_current = 1.828029e-007
+push = 600000000 buffer_current = 3.614409e-049
+push = 650000000 buffer_current = 1.851958e-104
+push = 700000000 buffer_current = 1.520680e-163
+push = 750000000 buffer_current = 1.525827e-067
+push = 800000000 buffer_current = 6.336043e-138
+push = 850000000 buffer_current = 3.588926e-086
+push = 900000000 buffer_current = 1.393964e-185
+push = 950000000 buffer_current = 8.033126e-111
+push = 1000000000 buffer_current = 1.493916e-211
+push = 1050000000 buffer_current = 1.956792e-240
+push = 1100000000 buffer_current = 2.608265e-164
+push = 1150000000 buffer_current = 6.118705e-031
+push = 1200000000 buffer_current = 1.087712e+002
+push = 1250000000 buffer_current = 1.684328e-068
+push = 1300000000 buffer_current = 9.923878e-015
+push = 1350000000 buffer_current = 1.067997e-044
+push = 1400000000 buffer_current = 4.167986e-018
+push = 1450000000 buffer_current = 1.494551e-053
+push = 1500000000 buffer_current = 9.216489e-050
+push = 1550000000 buffer_current = 4.938677e-096
+push = 1600000000 buffer_current = 1.949610e-075
+push = 1650000000 buffer_current = 4.701501e-196
+push = 1700000000 buffer_current = 7.180879e-038
+push = 1750000000 buffer_current = 6.338957e-169
+push = 1800000000 buffer_current = 2.935957e-021
+push = 1850000000 buffer_current = 1.603184e-070
+push = 1900000000 buffer_current = 2.408219e-167
+push = 1950000000 buffer_current = 2.097759e-170
+push = 2000000000 buffer_current = 1.375038e-110
+push = 2050000000 buffer_current = 3.473648e-110
+push = 2100000000 buffer_current = 3.596254e-040
+push = 2150000000 buffer_current = 2.233710e-057
+push = 2200000000 buffer_current = 1.982670e-083
+push = 2250000000 buffer_current = 5.112565e-009
+push = 2300000000 buffer_current = 2.187208e+003
+push = 2350000000 buffer_current = 2.705616e-076
+push = 2400000000 buffer_current = 3.525774e-245
+push = 2450000000 buffer_current = 4.284214e-169
+push = 2500000000 buffer_current = 4.057150e-055
+push = 2550000000 buffer_current = 5.826297e-150
+push = 2600000000 buffer_current = 1.924156e-158
+push = 2650000000 buffer_current = 2.245201e-052
+push = 2700000000 buffer_current = 6.505170e-124
+push = 2750000000 buffer_current = 1.048163e-020
+push = 2800000000 buffer_current = 1.684082e-229
+push = 2850000000 buffer_current = 1.299016e-080
+push = 2900000000 buffer_current = 9.853701e-004
+push = 2950000000 buffer_current = 2.001471e-019
+push = 3000000000 buffer_current = 6.992291e-084
+push = 3050000000 buffer_current = 9.013685e-080
+push = 3100000000 buffer_current = 2.532708e-007
+push = 3150000000 buffer_current = 1.198969e-056
+push = 3200000000 buffer_current = 2.389957e-079
+push = 3250000000 buffer_current = 1.034804e-018
+push = 3300000000 buffer_current = 1.223786e-056
+push = 3350000000 buffer_current = 8.027305e-176
+push = 3400000000 buffer_current = 3.147622e-048
+push = 3450000000 buffer_current = 1.316956e-095
+push = 3500000000 buffer_current = 1.721800e-105
+push = 3550000000 buffer_current = 1.014554e-192
+push = 3600000000 buffer_current = 9.479505e+060
+push = 3650000000 buffer_current = 3.179812e-101
+push = 3700000000 buffer_current = 2.710417e-071
+push = 3750000000 buffer_current = 2.498339e-151
+push = 3800000000 buffer_current = 2.129478e-072
+push = 3850000000 buffer_current = 4.902265e-202
+push = 3900000000 buffer_current = 4.021560e-101
+push = 3950000000 buffer_current = 1.458510e-051
+push = 4000000000 buffer_current = 5.795985e-047
+push = 4050000000 buffer_current = 3.351686e-117
+push = 4100000000 buffer_current = 8.706531e-129
+push = 4150000000 buffer_current = 1.748629e-049
+push = 4200000000 buffer_current = 1.462049e-147
+push = 4250000000 buffer_current = 6.283750e-215
+push = 4300000000 buffer_current = 8.516834e-025
+push = 4350000000 buffer_current = 1.230686e-113
+push = 4400000000 buffer_current = 6.471791e-216
+push = 4450000000 buffer_current = 1.054716e-296
+push = 4500000000 buffer_current = 2.120863e-127
+push = 4550000000 buffer_current = 1.567940e-038
+push = 4600000000 buffer_current = 3.795591e-223
+push = 4650000000 buffer_current = 3.716204e-128
+push = 4700000000 buffer_current = 8.972025e-040
+push = 4750000000 buffer_current = 4.075851e-022
+push = 4800000000 buffer_current = 2.678343e-217
+push = 4850000000 buffer_current = 1.303561e-119
+push = 4900000000 buffer_current = 2.413687e-065
+push = 4950000000 buffer_current = 7.163974e-095
+push = 5000000000 buffer_current = 3.180399e-032
+push = 5050000000 buffer_current = 2.955071e-038
+push = 5100000000 buffer_current = 1.273539e-063
+push = 5150000000 buffer_current = 3.408646e+058
+push = 5200000000 buffer_current = 7.005701e+009
+push = 5250000000 buffer_current = 7.123741e-189
+push = 5300000000 buffer_current = 1.903602e-226
+push = 5350000000 buffer_current = 4.794405e-132
+push = 5400000000 buffer_current = 3.727057e-155
+push = 5450000000 buffer_current = 1.279980e-100
+push = 5500000000 buffer_current = 6.975693e-133
+push = 5550000000 buffer_current = 3.835927e-119
+push = 5600000000 buffer_current = 3.430371e-115
+push = 5650000000 buffer_current = 1.856507e-159
+push = 5700000000 buffer_current = 5.240643e-123
+push = 5750000000 buffer_current = 1.246596e-159
+push = 5800000000 buffer_current = 4.012571e-148
+push = 5850000000 buffer_current = 6.724268e-049
+push = 5900000000 buffer_current = 3.740699e+010
+push = 5950000000 buffer_current = 2.780946e-150
+push = 6000000000 buffer_current = 1.680897e-228
+push = 6050000000 buffer_current = 4.779686e-253
+push = 6100000000 buffer_current = 9.544028e-246
+push = 6150000000 buffer_current = 3.063583e-246
+push = 6200000000 buffer_current = 1.172495e-164
+count = 0 count_del = 0 i= 6228133560
+Time before qsort
+1391.316000
+Time after qsort
+4852.516000
+after quicksort before shirink
+original buffer after quicksort tail=1.486852e+142 tail+1 = 0.000000e+000 head=4.940656e-324
+total_pushed = 1933166264
+count = 186232403 count_del = 13767596 i = 200000000
+count = 386226988 count_del = 13773011 i = 400000000
+count = 586117476 count_del = 13882523 i = 600000000
+count = 786117461 count_del = 13882538 i = 800000000
+count = 986117433 count_del = 13882566 i = 1000000000
+count = 1186116066 count_del = 13883933 i = 1200000000
+count = 1386116066 count_del = 13883933 i = 1400000000
+count = 1586116066 count_del = 13883933 i = 1600000000
+count = 1786116066 count_del = 13883933 i = 1800000000
+count = 1986116066 count_del = 13883933 i = 2000000000
+count = 2186116065 count_del = 13883934 i = 2200000000
+count = 2386116065 count_del = 13883934 i = 2400000000
+count = 2586116065 count_del = 13883934 i = 2600000000
+count = 2786116065 count_del = 13883934 i = 2800000000
+count = 2986116064 count_del = 13883935 i = 3000000000
+count = 3186116064 count_del = 13883935 i = 3200000000
+count = 3386116064 count_del = 13883935 i = 3400000000
+count = 3586116063 count_del = 13883936 i = 3600000000
+count = 3786116063 count_del = 13883936 i = 3800000000
+count = 3986116062 count_del = 13883937 i = 4000000000
+count = 4186116062 count_del = 13883937 i = 4200000000
+count = 4386116062 count_del = 13883937 i = 4400000000
+count = 4586116062 count_del = 13883937 i = 4600000000
+count = 4786116062 count_del = 13883937 i = 4800000000
+count = 4986116062 count_del = 13883937 i = 5000000000
+count = 5186116062 count_del = 13883937 i = 5200000000
+count = 5386116062 count_del = 13883937 i = 5400000000
+count = 5586116061 count_del = 13883938 i = 5600000000
+count = 5786116061 count_del = 13883938 i = 5800000000
+count = 5986116061 count_del = 13883938 i = 6000000000
+count = 6186116061 count_del = 13883938 i = 6200000000
+Time after deleting duplicate
+4874.010000
+count = 1919282325 count_del = 13883938
+all_pass_started
+local_count = 2000000
+ local_count = 4000000
+ local_count = 6000000
+ local_count = 8000000
+ local_count = 10000000
+ local_count = 12000000
+ local_count = 14000000
+ local_count = 16000000
+ local_count = 18000000
+ local_count = 20000000
+ local_count = 22000000
+ local_count = 24000000
+ local_count = 26000000
+ local_count = 28000000
+ local_count = 30000000
+ local_count = 32000000
+ local_count = 34000000
+ local_count = 36000000
+ local_count = 38000000
+ local_count = 40000000
+ local_count = 42000000
+ local_count = 44000000
+ local_count = 46000000
+ local_count = 48000000
+ local_count = 50000000
+ local_count = 52000000
+ local_count = 54000000
+ local_count = 56000000
+ local_count = 58000000
+ local_count = 60000000
+ local_count = 62000000
+ local_count = 64000000
+ local_count = 66000000
+ local_count = 68000000
+ local_count = 70000000
+ local_count = 72000000
+ local_count = 74000000
+ local_count = 76000000
+ local_count = 78000000
+ local_count = 80000000
+ local_count = 82000000
+ local_count = 84000000
+ local_count = 86000000
+ local_count = 88000000
+ local_count = 90000000
+ local_count = 92000000
+ local_count = 94000000
+ local_count = 96000000
+ local_count = 98000000
+ local_count = 100000000
+ local_count = 102000000
+ local_count = 104000000
+ local_count = 106000000
+ local_count = 108000000
+ local_count = 110000000
+ local_count = 112000000
+ local_count = 114000000
+ local_count = 116000000
+ local_count = 118000000
+ local_count = 120000000
+ local_count = 122000000
+ local_count = 124000000
+ local_count = 126000000
+ local_count = 128000000
+ local_count = 130000000
+ local_count = 132000000
+ local_count = 134000000
+ local_count = 136000000
+ local_count = 138000000
+ local_count = 140000000
+ local_count = 142000000
+ local_count = 144000000
+ local_count = 146000000
+ local_count = 148000000
+ local_count = 150000000
+ local_count = 152000000
+ local_count = 154000000
+ local_count = 156000000
+ local_count = 158000000
+ local_count = 160000000
+ local_count = 162000000
+ local_count = 164000000
+ local_count = 166000000
+ local_count = 168000000
+ local_count = 170000000
+ local_count = 172000000
+ local_count = 174000000
+ local_count = 176000000
+ local_count = 178000000
+ local_count = 180000000
+ local_count = 182000000
+ local_count = 184000000
+ local_count = 186000000
+ local_count = 188000000
+ local_count = 190000000
+ local_count = 192000000
+ local_count = 194000000
+ local_count = 196000000
+ local_count = 198000000
+ local_count = 200000000
+ local_count = 202000000
+ local_count = 204000000
+ local_count = 206000000
+ local_count = 208000000
+ local_count = 210000000
+ local_count = 212000000
+ local_count = 214000000
+ local_count = 216000000
+ local_count = 218000000
+ local_count = 220000000
+ local_count = 222000000
+ local_count = 224000000
+ local_count = 226000000
+ local_count = 228000000
+ local_count = 230000000
+ local_count = 232000000
+ local_count = 234000000
+ local_count = 236000000
+ local_count = 238000000
+ local_count = 240000000
+ local_count = 242000000
+ local_count = 244000000
+ local_count = 246000000
+ local_count = 248000000
+ local_count = 250000000
+ local_count = 252000000
+ local_count = 254000000
+ local_count = 256000000
+ local_count = 258000000
+ local_count = 260000000
+ local_count = 262000000
+ local_count = 264000000
+ local_count = 266000000
+ local_count = 268000000
+ local_count = 270000000
+ local_count = 272000000
+ local_count = 274000000
+ local_count = 276000000
+ local_count = 278000000
+ local_count = 280000000
+ local_count = 282000000
+ local_count = 284000000
+ local_count = 286000000
+ local_count = 288000000
+ local_count = 290000000
+ local_count = 292000000
+ local_count = 294000000
+ local_count = 296000000
+ local_count = 298000000
+ local_count = 300000000
+ local_count = 302000000
+ local_count = 304000000
+ local_count = 306000000
+ local_count = 308000000
+ local_count = 310000000
+ local_count = 312000000
+ local_count = 314000000
+ local_count = 316000000
+ local_count = 318000000
+ local_count = 320000000
+ local_count = 322000000
+ local_count = 324000000
+ local_count = 326000000
+ local_count = 328000000
+ local_count = 330000000
+ local_count = 332000000
+ local_count = 334000000
+ local_count = 336000000
+ local_count = 338000000
+ local_count = 340000000
+ local_count = 342000000
+ local_count = 344000000
+ local_count = 346000000
+ local_count = 348000000
+ local_count = 350000000
+ local_count = 352000000
+ local_count = 354000000
+ local_count = 356000000
+ local_count = 358000000
+ local_count = 360000000
+ local_count = 362000000
+ local_count = 364000000
+ local_count = 366000000
+ local_count = 368000000
+ local_count = 370000000
+ local_count = 372000000
+ local_count = 374000000
+ local_count = 376000000
+ local_count = 378000000
+ local_count = 380000000
+ local_count = 382000000
+ local_count = 384000000
+ local_count = 386000000
+ local_count = 388000000
+ local_count = 390000000
+ local_count = 392000000
+ local_count = 394000000
+ local_count = 396000000
+ local_count = 398000000
+ local_count = 400000000
+ local_count = 402000000
+ local_count = 404000000
+ local_count = 406000000
+ local_count = 408000000
+ local_count = 410000000
+ local_count = 412000000
+ local_count = 414000000
+ local_count = 416000000
+ local_count = 418000000
+ local_count = 420000000
+ local_count = 422000000
+ local_count = 424000000
+ local_count = 426000000
+ local_count = 428000000
+ local_count = 430000000
+ local_count = 432000000
+ local_count = 434000000
+ local_count = 436000000
+ local_count = 438000000
+ local_count = 440000000
+ local_count = 442000000
+ local_count = 444000000
+ local_count = 446000000
+ local_count = 448000000
+ local_count = 450000000
+ local_count = 452000000
+ local_count = 454000000
+ local_count = 456000000
+ local_count = 458000000
+ local_count = 460000000
+ local_count = 462000000
+ local_count = 464000000
+ local_count = 466000000
+ local_count = 468000000
+ local_count = 470000000
+ local_count = 472000000
+ local_count = 474000000
+ local_count = 476000000
+ local_count = 478000000
+ local_count = 480000000
+ local_count = 482000000
+ local_count = 484000000
+ local_count = 486000000
+ local_count = 488000000
+ local_count = 490000000
+ local_count = 492000000
+ local_count = 494000000
+ local_count = 496000000
+ local_count = 498000000
+ local_count = 500000000
+ local_count = 502000000
+ local_count = 504000000
+ local_count = 506000000
+ local_count = 508000000
+ local_count = 510000000
+ local_count = 512000000
+ local_count = 514000000
+ local_count = 516000000
+ local_count = 518000000
+ local_count = 520000000
+ local_count = 522000000
+ local_count = 524000000
+ local_count = 526000000
+ local_count = 528000000
+ local_count = 530000000
+ local_count = 532000000
+ local_count = 534000000
+ local_count = 536000000
+ local_count = 538000000
+ local_count = 540000000
+ local_count = 542000000
+ local_count = 544000000
+ local_count = 546000000
+ local_count = 548000000
+ local_count = 550000000
+ local_count = 552000000
+ local_count = 554000000
+ local_count = 556000000
+ local_count = 558000000
+ local_count = 560000000
+ local_count = 562000000
+ local_count = 564000000
+ local_count = 566000000
+ local_count = 568000000
+ local_count = 570000000
+ local_count = 572000000
+ local_count = 574000000
+ local_count = 576000000
+ local_count = 578000000
+ local_count = 580000000
+ local_count = 582000000
+ local_count = 584000000
+ local_count = 586000000
+ local_count = 588000000
+ local_count = 590000000
+ local_count = 592000000
+ local_count = 594000000
+ local_count = 596000000
+ local_count = 598000000
+ local_count = 600000000
+ local_count = 602000000
+ local_count = 604000000
+ local_count = 606000000
+ local_count = 608000000
+ local_count = 610000000
+ local_count = 612000000
+ local_count = 614000000
+ local_count = 616000000
+ local_count = 618000000
+ local_count = 620000000
+ local_count = 622000000
+ local_count = 624000000
+ local_count = 626000000
+ local_count = 628000000
+ local_count = 630000000
+ local_count = 632000000
+ local_count = 634000000
+ local_count = 636000000
+ local_count = 638000000
+ local_count = 640000000
+ local_count = 642000000
+ local_count = 644000000
+ local_count = 646000000
+ local_count = 648000000
+ local_count = 650000000
+ local_count = 652000000
+ local_count = 654000000
+ local_count = 656000000
+ local_count = 658000000
+ local_count = 660000000
+ local_count = 662000000
+ local_count = 664000000
+ local_count = 666000000
+ local_count = 668000000
+ local_count = 670000000
+ local_count = 672000000
+ local_count = 674000000
+ local_count = 676000000
+ local_count = 678000000
+ local_count = 680000000
+ local_count = 682000000
+ local_count = 684000000
+ local_count = 686000000
+ local_count = 688000000
+ local_count = 690000000
+ local_count = 692000000
+ local_count = 694000000
+ local_count = 696000000
+ local_count = 698000000
+ local_count = 700000000
+ local_count = 702000000
+ local_count = 704000000
+ local_count = 706000000
+ local_count = 708000000
+ local_count = 710000000
+ local_count = 712000000
+ local_count = 714000000
+ local_count = 716000000
+ local_count = 718000000
+ local_count = 720000000
+ local_count = 722000000
+ local_count = 724000000
+ local_count = 726000000
+ local_count = 728000000
+ local_count = 730000000
+ local_count = 732000000
+ local_count = 734000000
+ local_count = 736000000
+ local_count = 738000000
+ local_count = 740000000
+ local_count = 742000000
+ local_count = 744000000
+ local_count = 746000000
+ local_count = 748000000
+ local_count = 750000000
+ local_count = 752000000
+ local_count = 754000000
+ local_count = 756000000
+ local_count = 758000000
+ local_count = 760000000
+ local_count = 762000000
+ local_count = 764000000
+ local_count = 766000000
+ local_count = 768000000
+ local_count = 770000000
+ local_count = 772000000
+ local_count = 774000000
+ local_count = 776000000
+ local_count = 778000000
+ local_count = 780000000
+ local_count = 782000000
+ local_count = 784000000
+ local_count = 786000000
+ local_count = 788000000
+ local_count = 790000000
+ local_count = 792000000
+ local_count = 794000000
+ local_count = 796000000
+ local_count = 798000000
+ local_count = 800000000
+ local_count = 802000000
+ local_count = 804000000
+ local_count = 806000000
+ local_count = 808000000
+ local_count = 810000000
+ local_count = 812000000
+ local_count = 814000000
+ local_count = 816000000
+ local_count = 818000000
+ local_count = 820000000
+ local_count = 822000000
+ local_count = 824000000
+ local_count = 826000000
+ local_count = 828000000
+ local_count = 830000000
+ local_count = 832000000
+ local_count = 834000000
+ local_count = 836000000
+ local_count = 838000000
+ local_count = 840000000
+ local_count = 842000000
+ local_count = 844000000
+ local_count = 846000000
+ local_count = 848000000
+ local_count = 850000000
+ local_count = 852000000
+ local_count = 854000000
+ local_count = 856000000
+ local_count = 858000000
+ local_count = 860000000
+ local_count = 862000000
+ local_count = 864000000
+ local_count = 866000000
+ local_count = 868000000
+ local_count = 870000000
+ local_count = 872000000
+ local_count = 874000000
+ local_count = 876000000
+ local_count = 878000000
+ local_count = 880000000
+ local_count = 882000000
+ local_count = 884000000
+ local_count = 886000000
+ local_count = 888000000
+ local_count = 890000000
+ local_count = 892000000
+ local_count = 894000000
+ local_count = 896000000
+ local_count = 898000000
+ local_count = 900000000
+ local_count = 902000000
+ local_count = 904000000
+ local_count = 906000000
+ local_count = 908000000
+ local_count = 910000000
+ local_count = 912000000
+ local_count = 914000000
+ local_count = 916000000
+ local_count = 918000000
+ local_count = 920000000
+ local_count = 922000000
+ local_count = 924000000
+ local_count = 926000000
+ local_count = 928000000
+ local_count = 930000000
+ local_count = 932000000
+ local_count = 934000000
+ local_count = 936000000
+ local_count = 938000000
+ local_count = 940000000
+ local_count = 942000000
+ map
+count = 68587022 count_del = 874238376
+min_diva i-1= 1.000000e-008 number = 6
+End time
+5241.409000
+Press any key to continue . . .
